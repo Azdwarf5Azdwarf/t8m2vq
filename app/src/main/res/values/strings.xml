@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nedräkning</string>
+    <string name="label_north">Δ NORR</string>
+    <string name="label_east">Δ ÖST</string>
+    <string name="needle">Nål mot målet</string>
+    <string name="dash">—</string>
+    <string name="status_waiting">väntar på GPS-fix…</string>
+    <string name="status_gps_off">GPS är avstängt — slå på platstjänster</string>
+    <string name="status_no_permission">Utan platsbehörighet kan appen inte veta var du är. Ge behörighet i Inställningar → Appar → Nedräkning.</string>
+    <string name="status_fix">avstånd %1$d m · GPS ±%2$d m</string>
+</resources>
