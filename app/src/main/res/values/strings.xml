@@ -9,4 +9,17 @@
     <string name="status_gps_off">GPS är avstängt — slå på platstjänster</string>
     <string name="status_no_permission">Utan platsbehörighet kan appen inte veta var du är. Ge behörighet i Inställningar → Appar → Nedräkning.</string>
     <string name="status_fix">avstånd %1$d m · GPS ±%2$d m</string>
+
+    <string name="hint_target">koordinater eller ortnamn</string>
+    <string name="action_set_target">Spara</string>
+    <string name="target_current">mal: %1$s</string>
+    <string name="target_coords">%1$.4f, %2$.4f</string>
+    <string name="target_named">%1$s (%2$.4f, %3$.4f)</string>
+    <string name="target_searching">soker efter %1$s…</string>
+    <string name="target_set">nytt mal: %1$s</string>
+    <string name="error_parse">Kunde inte tolka det. Skriv t.ex. 58.483, 11.683 eller ett ortnamn.</string>
+    <string name="error_range">Koordinaterna ligger utanfor jorden. Latitud -90 till 90, longitud -180 till 180.</string>
+    <string name="error_not_found">Hittade ingen plats som heter %1$s.</string>
+    <string name="error_geocoder">Kunde inte soka just nu. Kolla natet, eller skriv koordinater i stallet.</string>
+    <string name="error_no_geocoder">Den har telefonen kan inte sla upp ortnamn. Skriv koordinater i stallet.</string>
 </resources>
