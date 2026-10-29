@@ -30,11 +30,11 @@ ser du direkt om bara det ena talet minskar — då rör du dig längs fel axel.
 Hårdkodade överst i `app/src/main/java/se/t8m2vq/nedrakning/MainActivity.kt`:
 
 ```kotlin
-const val TARGET_LAT = 58.483
-const val TARGET_LON = 11.683
+const val TARGET_LAT = 59.330
+const val TARGET_LON = 18.058
 ```
 
-Standard är Munkedal centrum. Byt de två raderna för att peka om appen.
+Standard är Stockholm C. Byt de två raderna för att peka om appen.
 
 ## Bygga
 
