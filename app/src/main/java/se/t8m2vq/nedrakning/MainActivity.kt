@@ -21,8 +21,8 @@ import kotlin.math.abs
 import kotlin.math.roundToInt
 
 // Målet. Byt dessa två rader för att peka om appen.
-const val TARGET_LAT = 58.483
-const val TARGET_LON = 11.683
+const val TARGET_LAT = 59.330
+const val TARGET_LON = 18.058
 
 private const val UPDATE_INTERVAL_MS = 1000L
 private const val UPDATE_DISTANCE_M = 0f
